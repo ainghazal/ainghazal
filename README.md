@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ainghazal
+- 👋 Hi, I’m @ainghazal (عين غزال)
 - 👀 I’m interested in censorship circumvention
 - 🌱 I’m currently learning topological data analysis
 - 💞️ I’m looking to collaborate on measuring disruption on VPN services
